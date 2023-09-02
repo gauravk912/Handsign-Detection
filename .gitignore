@@ -1,0 +1,8 @@
+# Frontend
+
+# Backend
+/Backend/env
+/Backend/Data
+
+# pycache
+/Backend/__pycache__
